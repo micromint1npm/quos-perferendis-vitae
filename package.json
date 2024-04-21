@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@micromint1npm/quos-perferendis-vitae",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/micromint1npm/quos-perferendis-vitae.git"
   },
   "dependencies": {
+    "@micromint1npm/dolorum-tempore-consectetur": "^1.0.0",
+    "@micromint1npm/repellendus-nam-pariatur": "^1.0.0",
+    "@rtyuigh6npm/reprehenderit-sit-nemo-itaque": "^1.0.0"
   }
 }
